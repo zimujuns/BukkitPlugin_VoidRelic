@@ -1,0 +1,5 @@
+version: 0.1.6
+main: com.mzimu.zmvoidrelic.Main
+name: ZMVoidRelic
+commands:
+  zmvr:
